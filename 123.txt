@@ -1,0 +1,26 @@
+! Title: webweb/customlist.txt
+! Description: Blocks some shiit.
+! Version: 1.0.0.21
+! TimeUpdated: 2019-08-30T17:45:19+03:00
+! Expires: ??
+! 
+! Google AdSense -- whitelisted
+!#safari_cb_affinity(general)
+checkadblock.ru#@#.adsbygoogle
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=checkadblock.ru
+!#safari_cb_affinity
+! 
+! picture ad banner - 1 -- whitelisted
+!#safari_cb_affinity(all)
+@@||checkadblock.ru/banners/*$domain=checkadblock.ru
+!#safari_cb_affinity
+! 
+! gif ad banner - 3 -- whitelisted
+!#safari_cb_affinity(all)
+checkadblock.ru#@#img[width="728"][height="90"]
+!#safari_cb_affinity
+! 
+! Google Analytics -- whitelisted
+!#safari_cb_affinity(general,privacy)
+@@||google-analytics.com/analytics.js$domain=checkadblock.ru
+!#safari_cb_affinity
