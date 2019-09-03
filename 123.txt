@@ -24,3 +24,4 @@ checkadblock.ru#@#img[width="728"][height="90"]
 !#safari_cb_affinity(general,privacy)
 @@||google-analytics.com/analytics.js$domain=checkadblock.ru
 !#safari_cb_affinity
+||thelibertydaily.com/*/adtoniq/js/niqon.js
