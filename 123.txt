@@ -1,4 +1,4 @@
-! Title: webweb/customlist.txt
+! Title: webweb/ios.txt
 ! Description: Blocks some shiit.
 ! Version: 1.0.0.21
 ! TimeUpdated: 2019-08-30T17:45:19+03:00
@@ -26,3 +26,5 @@ checkadblock.ru#@#img[width="728"][height="90"]
 !#safari_cb_affinity
 ||thelibertydaily.com/*/adtoniq/js/niqon.js
 tvtropes.org##div[style*="z-index: 100001;"][style*="position: fixed;"]
+kenhtao.net##.desktop-ad
+kenhtao.net##.adsbygoogle
