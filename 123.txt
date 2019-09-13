@@ -28,3 +28,4 @@ checkadblock.ru#@#img[width="728"][height="90"]
 tvtropes.org##div[style*="z-index: 100001;"][style*="position: fixed;"]
 kenhtao.net##.desktop-ad
 kenhtao.net##.adsbygoogle
+ekstrabladet.dk#@#.qc-cmp-ui-container
