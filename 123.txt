@@ -29,3 +29,4 @@ tvtropes.org##div[style*="z-index: 100001;"][style*="position: fixed;"]
 kenhtao.net##.desktop-ad
 kenhtao.net##.adsbygoogle
 ekstrabladet.dk#@#.qc-cmp-ui-container
+weather.rambler.ru##a[href^="/v-moskve/"]
