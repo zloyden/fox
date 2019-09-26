@@ -1,6 +1,6 @@
 ! Title: webweb/ios.txt
 ! Description: Blocks some shiit.
-! Version: 1.0.0.22
+! Version: 1.0.0.23
 ! TimeUpdated: 2019-08-30T17:45:19+03:00
 ! Expires: ??
 ! 
@@ -23,3 +23,4 @@ checkadblock.ru#@#img[width="728"][height="90"]
 !#safari_cb_affinity(general)
 @@/ads/ads.js|$domain=nltimes.nl
 !#safari_cb_affinity
+nltimes.nl##.ath-viewport
