@@ -19,14 +19,7 @@ checkadblock.ru#@#.adsbygoogle
 !#safari_cb_affinity(all)
 checkadblock.ru#@#img[width="728"][height="90"]
 !#safari_cb_affinity
-! 
-! Google Analytics -- whitelisted
-!#safari_cb_affinity(general,privacy)
-@@||google-analytics.com/analytics.js$domain=checkadblock.ru
+!
+!#safari_cb_affinity(general)
+@@/ads.js|$domain=nltimes.nl
 !#safari_cb_affinity
-||thelibertydaily.com/*/adtoniq/js/niqon.js
-tvtropes.org##div[style*="z-index: 100001;"][style*="position: fixed;"]
-kenhtao.net##.desktop-ad
-kenhtao.net##.adsbygoogle
-ekstrabladet.dk#@#.qc-cmp-ui-container
-##a[href^="/v-moskve/"]
