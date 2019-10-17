@@ -24,3 +24,4 @@ checkadblock.ru#@#img[width="728"][height="90"]
 @@/ads/ads.js|$domain=nltimes.nl
 !#safari_cb_affinity
 nltimes.nl##.ath-viewport
+@@||cloudflare.com/ajax/libs/fingerprintjs2/*/fingerprint2.min.js$domain=nfmovies.com
