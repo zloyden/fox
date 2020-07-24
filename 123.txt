@@ -25,3 +25,4 @@ checkadblock.ru#@#img[width="728"][height="90"]
 !#safari_cb_affinity
 nltimes.nl##.ath-viewport
 @@||cloudflare.com/ajax/libs/fingerprintjs2/*/fingerprint2.min.js$domain=nfmovies.com
+||main.zdevx.yandex.*/*/*/*/$replace=/.*"blockId":\s"[A-Z0-9-]+".*//,script,other,domain=yandex.ru
