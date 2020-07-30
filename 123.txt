@@ -4,6 +4,7 @@
 ! TimeUpdated: 2019-08-30T17:45:19+03:00
 ! Expires: ??
 ! 
+!#if (!adguard_app_ios && !adguard_ext_android_cb)
 ! Google AdSense -- whitelisted
 !#safari_cb_affinity(general)
 checkadblock.ru#@#.adsbygoogle
@@ -23,6 +24,4 @@ checkadblock.ru#@#img[width="728"][height="90"]
 !#safari_cb_affinity(general)
 @@/ads/ads.js|$domain=nltimes.nl
 !#safari_cb_affinity
-nltimes.nl##.ath-viewport
-@@||cloudflare.com/ajax/libs/fingerprintjs2/*/fingerprint2.min.js$domain=nfmovies.com
-||main.zdevx.yandex.*/*/*/*/$replace=/.*"blockId":\s"[A-Z0-9-]+".*//,script,other,domain=yandex.ru
+!#endif
