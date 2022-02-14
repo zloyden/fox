@@ -25,3 +25,6 @@ checkadblock.ru#@#img[width="728"][height="90"]
 @@/ads/ads.js|$domain=nltimes.nl
 !#safari_cb_affinity
 !#endif
+!
+!
+moviesjoy.to###overlay-container
