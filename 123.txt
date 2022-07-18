@@ -5,5 +5,5 @@
 ! Expires: ??
 ! 
 !
-test.com##.adsbox
+##.adsbox
 ##.mob-app-redirect:not(html, body)
