@@ -5,5 +5,5 @@
 ! Expires: ??
 ! 
 !
-##.adsbox
+! Redirect: https://filters.adtidy.org/extension/chromium/filters/14.txt
 ##.mob-app-redirect:not(html, body)
